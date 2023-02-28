@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
+body {
+
+}
+
+
+/* Common Styles */
+
+
+/* Header */
+.container {
+
+}
+
+.top{
+
+}
+
+.box {
+
+}
+
+.image {
+    width: 200px;
+    border-radius: 50%;
+}
